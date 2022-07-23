@@ -2,7 +2,7 @@
 
 Basic to-do-list application using blockchain technology as a decentralized system
 
-This is a group project : Group members ->
+## This is a group project : Group members ->
 
 syedshahidn
 
